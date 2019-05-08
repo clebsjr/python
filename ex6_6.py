@@ -49,7 +49,7 @@ while True:
             break
 
         else:
-            print("Operação inválida! Digite apenas F, A ou S!")
+            print("Operação inválida! Digite apenas A, B, F, G ou S!")
         x += 1
     if sair:
         break
